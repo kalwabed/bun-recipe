@@ -1,0 +1,13 @@
+{
+  "name": "hono-recipe",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.3.0",
+    "hono": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
