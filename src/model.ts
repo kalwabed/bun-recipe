@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai'
 
-export const askAi = async () => {
+export const askRecipe = async () => {
   const aiKey = process.env.GOOGLE_GEMINI_API_KEY || ''
 
   if (!aiKey) {
