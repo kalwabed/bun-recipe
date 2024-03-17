@@ -8,7 +8,7 @@ This project empowers you to generate creative and interesting recipes using the
 * Utilizes Hono: Hono, the lightweight web framework built on Bun, ensures a seamless serverless experience for recipe delivery.
 * Integrates Gemini AI: Gemini AI, a powerful large language model, fuels the recipe creation process, generating unique and flavorful ideas.
 
-## Current Stage (Important):
+### Current Stage (Important):
 
 * Opinionated Recipes: At this stage, the project focuses on generating recipes within a specific set of parameters (opinionated recipes). Future development will explore customization options for broader recipe creation.
 
