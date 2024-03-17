@@ -2,6 +2,7 @@
   "name": "hono-recipe",
   "scripts": {
     "dev": "bun run --watch src/index.ts",
+    "build": "bun build --compile --minify --sourcemap src/index.ts --outfile recipe",
     "test": "bun test --timeout 12000"
   },
   "dependencies": {
